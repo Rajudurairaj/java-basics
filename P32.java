@@ -7,7 +7,7 @@ public class P32 {
 		char [] characters= {'C','S','K'};
 		String firststring = new String(characters);
 		System.out.println(characters);
-		System.out.print(firststring);
+		System.out.println(firststring);
 		
 	}
 

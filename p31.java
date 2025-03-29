@@ -7,6 +7,7 @@ public class p31 {
 Scanner sc = new Scanner(System.in);
 String team1="CSK";
 String team2="RCB";
+System.err.println(team1.concat(team2));
 
 	}
 
